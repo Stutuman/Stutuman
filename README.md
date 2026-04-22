@@ -8,7 +8,7 @@ Apasionado por la resolución de problemas lógicos, el desarrollo de aplicacion
 
 - 🔭 Actualmente trabajando en el desarrollo de **opengol** (Web Full Stack).
 - 🌱 Profundizando mis conocimientos en **NestJS, PostgreSQL y Metodologías de Testing**.
-- 🎓 Cursando el 2do año de la Licenciatura en Informática en la **UNLP**.
+- 🎓 Cursando Licenciatura en Informática en la **UNLP**.
 - 🤝 Abierto a colaborar en proyectos Open Source y oportunidades laborales como Trainee/Junior.
 - ⚡ Dato curioso: Además del código, me apasiona el hardware, el armado de PCs y tocar la guitarra.
 
