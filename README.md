@@ -33,5 +33,5 @@ Apasionado por la resolución de problemas lógicos, el desarrollo de aplicacion
 
 ### 📫 Cómo contactarme
 
-- **LinkedIn:** [kevin-ibanez-7a911b24b](linkedin.com/in/kevin-ibanez-javier)
+- **LinkedIn:** [kevin-ibanez-7a911b24b](https://www.linkedin.com/in/kevin-ibanez-javier/?isSelfProfile=true)
 - **Email:** kevinibanez23@gmail.com
